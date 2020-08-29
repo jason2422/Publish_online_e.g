@@ -1,0 +1,8 @@
+# Book settings
+title: Test
+author: Jason Wu
+logo: 清華校徽
+
+latex:
+  latex_documents:
+    targetname: book.tex
